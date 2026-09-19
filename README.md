@@ -1,51 +1,103 @@
-<h1 align="center">🧙‍♂️ Azteka</h1>
+<div align="center">
 
-<p align="center">
-  <b>Building magical things for gamers.</b><br>
-  Developer & creator of Merlin ✨
-</p>
+# 🧙‍♂️ Azteka
 
-<p align="center">
-  Leave the magic to Merlin.
-</p>
+### Building magical things for gamers.
+
+**Developer & creator of Merlin ✨**
+
+*Leave the magic to Merlin.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,git,github,vscode,docker,linux" />
+
+</div>
 
 ---
 
-### 🪄 About me
+## 🪄 About me
 
-I'm the developer behind **Merlin**, building tools and experiences
-focused on making gaming simpler, better and a little more magical.
+I'm the developer behind **Merlin**, building tools and experiences focused on making gaming simpler, better and a little more magical.
 
 Currently working on:
 
-🎮 Merlin  
-🚀 Merlin Launcher  
-⚙️ Merlin API  
-🌎 Game localization projects  
+- 🎮 **Merlin**
+- 🚀 **Merlin Launcher**
+- ⚙️ **Merlin API**
+- 🌎 **Game localization projects**
 
 ---
 
-### ⚔️ Tech Stack
+## 🔮 Merlin Ecosystem
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,git,github,vscode" />
-</p>
+<table>
+<tr>
 
----
+<td width="33%" valign="top">
 
-### 🔮 Merlin Ecosystem
+### 🚀 Merlin Launcher
 
-**Merlin Launcher**  
 Desktop launcher and client for the Merlin ecosystem.
 
-**Merlin API**  
-Backend responsible for licenses, authentication and application services.
+<br>
 
-**Merlin Publish**  
+<a href="https://github.com/azteka-merlin/Merlin-launcher">
+  <img src="https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Merlin API
+
+Backend responsible for license validation and application services.
+
+<br>
+
+<a href="https://github.com/azteka-merlin/Merlin-api">
+  <img src="https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📖 Merlin Publish
+
 Publishing and distribution tools for Merlin.
+
+<br>
+
+<a href="https://github.com/azteka-merlin/merlin-publish">
+  <img src="https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  ✨ <i>Leave the magic to Merlin.</i> ✨
-</p>
+## ⚔️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,git,github,vscode,docker,linux&perline=9" />
+
+</div>
+
+---
+
+## ✨ The mission
+
+> Good games bring people together.  
+> That's the kind of magic I want to build.
+
+<div align="center">
+
+### ✦ Leave the magic to Merlin. ✦
+
+</div>
