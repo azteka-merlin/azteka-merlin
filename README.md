@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">🧙‍♂️ Azteka</h1>
 
-<!--
-**azteka-merlin/azteka-merlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building magical things for gamers.</b><br>
+  Developer & creator of Merlin ✨
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Leave the magic to Merlin.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🪄 About me
+
+I'm the developer behind **Merlin**, building tools and experiences
+focused on making gaming simpler, better and a little more magical.
+
+Currently working on:
+
+🎮 Merlin  
+🚀 Merlin Launcher  
+⚙️ Merlin API  
+🌎 Game localization projects  
+
+---
+
+### ⚔️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,git,github,vscode" />
+</p>
+
+---
+
+### 🔮 Merlin Ecosystem
+
+**Merlin Launcher**  
+Desktop launcher and client for the Merlin ecosystem.
+
+**Merlin API**  
+Backend responsible for licenses, authentication and application services.
+
+**Merlin Publish**  
+Publishing and distribution tools for Merlin.
+
+---
+
+<p align="center">
+  ✨ <i>Leave the magic to Merlin.</i> ✨
+</p>
