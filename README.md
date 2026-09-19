@@ -2,30 +2,54 @@
 
 # 🧙‍♂️ Azteka
 
-### Building magical things for gamers.
+### Developer & creator of Merlin ✨
 
-**Developer & creator of Merlin ✨**
+Building tools and experiences for gamers.
 
-*Leave the magic to Merlin.*
+**Leave the magic to Merlin.**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,git,github,vscode,docker,linux" />
+<a href="https://api-merlin.com/download#top">
+  <img src="https://img.shields.io/badge/Merlin-Website-8B5CF6?style=for-the-badge">
+</a>
+<a href="https://api-merlin.com/catalogo">
+  <img src="https://img.shields.io/badge/Game-Catalog-8B5CF6?style=for-the-badge">
+</a>
+<a href="https://api-merlin.com/api/updates/download">
+  <img src="https://img.shields.io/badge/Download-Merlin-8B5CF6?style=for-the-badge">
+</a>
 
 </div>
 
 ---
 
-## 🪄 About me
+## 🌐 About me
 
-I'm the developer behind **Merlin**, building tools and experiences focused on making gaming simpler, better and a little more magical.
+I'm the developer behind **Merlin**, an open-source PC gaming platform focused on making access to games simpler and more centralized.
 
-Currently working on:
+Most of my work revolves around the Merlin ecosystem, including desktop applications, backend services, licensing, billing, automation and infrastructure.
 
-- 🎮 **Merlin**
-- 🚀 **Merlin Launcher**
-- ⚙️ **Merlin API**
-- 🌎 **Game localization projects**
+I also work on game localization projects.
+
+---
+
+## 🔮 What is Merlin?
+
+**Merlin** is a PC platform that lets users access and activate supported games through their own Steam account using the Merlin Launcher.
+
+The platform brings together:
+
+- 🎮 Standard game activations
+- ✨ Merlin Premium titles
+- 🚀 New game releases
+- 📚 A centralized game catalog
+- 🔑 License and access management
+- ⚙️ Automated account and platform services
+
+Everything is managed through the Merlin ecosystem.
+
+> Merlin is actively developed and its source code is available for community inspection.
 
 ---
 
@@ -34,11 +58,13 @@ Currently working on:
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 Merlin Launcher
 
-Desktop launcher and client for the Merlin ecosystem.
+Desktop client for the Merlin ecosystem.
+
+Handles the user library, licenses, game activations and access to Merlin Premium.
 
 <br>
 
@@ -48,29 +74,17 @@ Desktop launcher and client for the Merlin ecosystem.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ Merlin API
 
-Backend responsible for license validation and application services.
+Backend services powering the Merlin platform.
+
+Responsible for licensing, authentication, billing, game availability and application services.
 
 <br>
 
 <a href="https://github.com/azteka-merlin/Merlin-api">
-  <img src="https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📖 Merlin Publish
-
-Publishing and distribution tools for Merlin.
-
-<br>
-
-<a href="https://github.com/azteka-merlin/merlin-publish">
   <img src="https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -81,11 +95,53 @@ Publishing and distribution tools for Merlin.
 
 ---
 
+## 🔨 Currently building
+
+Most of my current work is focused on improving the Merlin ecosystem:
+
+- Merlin Premium
+- Launcher UX
+- Billing and subscription flows
+- Game publishing and distribution
+- Platform automation
+- Licensing infrastructure
+- Public catalog and account management
+
+---
+
 ## ⚔️ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,git,github,vscode,docker,linux&perline=9" />
+
+</div>
+
+---
+
+## 🌐 Merlin
+
+<div align="center">
+
+<a href="https://api-merlin.com/download#top">
+  Website
+</a>
+&nbsp;•&nbsp;
+<a href="https://api-merlin.com/catalogo">
+  Catalog
+</a>
+&nbsp;•&nbsp;
+<a href="https://api-merlin.com/api/updates/download">
+  Download
+</a>
+&nbsp;•&nbsp;
+<a href="https://www.instagram.com/merlin.launcher/">
+  Instagram
+</a>
+&nbsp;•&nbsp;
+<a href="https://www.tiktok.com/@merlin.launcher">
+  TikTok
+</a>
 
 </div>
 
@@ -110,10 +166,12 @@ Publishing and distribution tools for Merlin.
   </picture>
 </p>
 
+---
+
 ## ✨ The mission
 
 > Good games bring people together.  
-> That's the kind of magic I want to build.
+> I want to build tools that make those experiences easier to reach.
 
 <div align="center">
 
